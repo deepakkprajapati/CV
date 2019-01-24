@@ -1,0 +1,32 @@
+
+  body {
+    background-color: #DEFCFC;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 9px;
+    width: 5%;
+    margin:  40px auto;
+  }
+h1 {
+  color: #66bfbf;
+  text-shadow: 3px 2px #ffecd3;
+}
+
+h3 {
+  color: #66bfbf;
+}
+img {
+  background-color: #0077bf;
+  border-radius: 50%;
+}
+.heading3{
+  color: black;
+}
+.work {
+  font-style: italic;
+}
+#id {
+}
